@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 - **HTML5**
 - **CSS3**
 - **Responsive Design**
-- **Flexbox & Grid Layouts**
 - **CSS Animations**
-- **Version Control (Git)**
 
 ---
 
