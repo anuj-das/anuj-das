@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **anuj-das/anuj-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Anuj Das
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-das" alt="anuj-das" /></a> </p>
+
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -49,8 +53,9 @@ Here are some ideas to get you started:
 
 - **Code Editor:** Visual Studio Code
 - **Version Control:** Git, GitHub
-- **Preprocessors:** SASS/SCSS
-- **Frameworks:** Bootstrap, Tailwind CSS
+
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -63,21 +68,15 @@ Here are some ideas to get you started:
 ## 📞 Get In Touch
 
 - **Email:** [anujdas4500@gmail.com](mailto:your.email@example.com)
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_anuj_das__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anuj_das__" height="30" width="40" /></a>
+</p>
 
-
-Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
 ---
 
-Thanks for visiting my profile! 😄
-
-
-
-
-
-
-
-
+Thanks for visiting my profile
 
 
 
