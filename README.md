@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Anuj Das
 
-I'm a passionate web developer with expertise in **HTML** and **CSS**. I love creating beautiful, user-friendly websites and applications. I believe that the design and structure of a website play a crucial role in delivering an exceptional user experience.
 
 ---
 
