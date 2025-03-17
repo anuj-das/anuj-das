@@ -68,8 +68,7 @@ Here are some ideas to get you started:
 - **Email:** [anujdas4500@gmail.com](mailto:your.email@example.com)
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_anuj_das__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anuj_das__" height="30" width="40" /></a>
-</p>
+
 
 
 ---
