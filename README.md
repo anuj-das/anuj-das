@@ -66,9 +66,6 @@ Here are some ideas to get you started:
 ## 📞 Get In Touch
 
 - **Email:** [anujdas4500@gmail.com](mailto:your.email@example.com)
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-
 
 
 ---
