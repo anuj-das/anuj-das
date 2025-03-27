@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **Responsive Design**
 - **CSS Animations**
 
